@@ -41,20 +41,3 @@ Cold Start Problem: New users or items don’t have enough data for recommendati
 
 Alternative Approach: Matrix Factorization (like SVD) can improve scalability.
 
-✅ Final Master Summary:
-Task	Topic	Tools Used	Key Concepts
-1	Decision Tree	Scikit-Learn	Gini, Entropy, Visualization
-2	Sentiment Analysis	TF-IDF, Logistic Regression	Text Preprocessing, Classification
-3	Image Classification (CNN)	TensorFlow, CNN	Convolution Layers, Pooling
-4	Recommendation System	Collaborative Filtering	User-Item Matrix, Cosine Similarity
-
-🔔 If I Were Your Teacher, I Would Ask You:
-What is the difference between TF-IDF and CountVectorizer?
-
-How do you prevent overfitting in a Decision Tree? In CNN?
-
-What are the limitations of User-User Collaborative Filtering?
-
-Why is softmax used in CNN classification problems?
-
-How would you handle a new user in a recommendation system?

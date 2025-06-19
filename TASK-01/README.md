@@ -38,9 +38,3 @@ Visualization: Plotted the decision tree to understand the splitting logic.
 
 Evaluation: Measured accuracy, visualized decision boundaries, and interpreted the tree.
 
-🎓 Key Learning Points:
-Understand Gini Index and Entropy (they measure impurity at each node).
-
-Learn how the decision tree splits the dataset to maximize classification accuracy.
-
-Watch out for overfitting (trees can memorize training data if not properly pruned)
